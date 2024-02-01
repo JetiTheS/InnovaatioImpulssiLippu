@@ -1,8 +1,11 @@
 # Projektin nimi
 
-Tiimi: Etunimi Sukunimi, Etunimi Sukunimi
+Tiimi: Jetro Eräkangas, Niilo Virtamo, Emilia Friman, Jasmin Huttunen
 
 ## Johdanto
+
+Lipunmyynti järjestelmä, lipputoimistolle lipunmyynti järjestelmä jolla voi myydä lippuja sujuvammin, järjestelmä rakennetaan SpringBoot:illa.
+Kun projekti on valmis, asiakkaalla on toimiva järjestelmä.
 
 Johdantoon kirjoitetaan lyhyt, ytimekäs kuvaus siitä, mikä on projektin aihe,
 kuka on asiakas (käyttäjä), mitä hän haluaa ja saa järjestelmältä, mitä
