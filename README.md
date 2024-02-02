@@ -34,6 +34,14 @@ käyttäjäryhmän tärkeimmät toiminnot:
 - Asiakas osallistuu tapahtumiin ostamalla lipun lipunmyyjältä. Tulevaisuudessa asiakkaan tulisi voida ostaa 
 lippuja itse verkkokaupan kautta.
 
+Käyttäjätarinoita:
+- "Asiakas haluaa ostaa liput tapahtumiin helposti ja mukavasti"
+- "Asiakas haluaa mahdollisuuden hankkia liput tapahtumiin omalta älylaitteelta kotisohvalta välttääkseen jonottamisen"
+- "Lipunmyyjä haluaa lipunmyyntijärjestelmään parannuksia lippupisteen ruuhkien helpottamiseksi"
+- "Lipputoimisto haluaa helpottaa lippujen ostoa parantaakseen asiakaskokemusta"
+- "Lipputoimisto haluaa parantaa lippujen myynnin järjestelmää saavuttaakseen paremmat myyntiluvut"
+
+
 
 ## Käyttöliittymä
 
