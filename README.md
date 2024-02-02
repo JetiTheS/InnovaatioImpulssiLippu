@@ -19,6 +19,9 @@ tekniikoita käytetään ja mitä konkreettisesti on valmiina, kun projekti pä�
 
 ## Järjestelmän määrittely
 
+TicketGurulla on kolme eri käyttäjäryhmää: asiakas, lipunmyyjä ja lipputoimisto. Alla on esitettynä käyttötapauskaaviona jokaisen
+käyttäjäryhmän tärkeimmät toiminnot.
+
 Määrittelyssä järjestelmää tarkastellaan käyttäjän näkökulmasta. Järjestelmän
 toiminnot hahmotellaan käyttötapausten tai käyttäjätarinoiden kautta, ja kuvataan järjestelmän
 käyttäjäryhmät.
