@@ -20,16 +20,19 @@ tekniikoita käytetään ja mitä konkreettisesti on valmiina, kun projekti pä�
 ## Järjestelmän määrittely
 
 TicketGurulla on kolme eri käyttäjäryhmää: asiakas, lipunmyyjä ja lipputoimisto. 
-- Lipputoimisto lisää järjestelmäänsä tapahtumia, joihin myydään lippuja lipunmyyjän kautta.   
-- Lipunmyyjä toimii asiakaspalveluhenkilönä sekä vastaa lippujen tulostuksesta ja myynnistä asiakkaalle.   
-- Asiakas osallistuu tapahtumiin ostamalla lipun lipunmyyjältä. Tulevaisuudessa asiakkaan tulisi voida ostaa 
-lippuja itse verkkokaupan kautta.
+- Asiakkaat ovat tapahtumiin osallistuvia henkilöitä, jotka ostavat lippuja
+- Lipunmyyjät ovat palkattua henkilöstöä, jotka vastaavat lippujen myynnistä asiakkaalle
+- Lipputoimisto on liiketoimintaa harjoittava taho, joka myy tapahtumiin lippuja
 
 Alla on esitettynä käyttötapauskaaviona jokaisen
 käyttäjäryhmän tärkeimmät toiminnot:
 
 ![alt text](https://github.com/JetiTheS/InnovaatioImpulssiLippu/blob/master/ticketguruusecase.png?raw=true "TicketGuru use case diagram")
 
+- Lipputoimisto lisää järjestelmäänsä tapahtumia, joihin myydään lippuja lipunmyyjän kautta.   
+- Lipunmyyjä toimii asiakaspalveluhenkilönä sekä vastaa lippujen tulostuksesta ja myynnistä asiakkaalle.   
+- Asiakas osallistuu tapahtumiin ostamalla lipun lipunmyyjältä. Tulevaisuudessa asiakkaan tulisi voida ostaa 
+lippuja itse verkkokaupan kautta.
 
 
 Määrittelyssä järjestelmää tarkastellaan käyttäjän näkökulmasta. Järjestelmän
