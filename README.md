@@ -1,6 +1,6 @@
-# Projektin nimi
+# TicketGuru
 
-Tiimi: Jetro Eräkangas, Niilo Virtamo, Emilia Friman, Jasmin Huttunen
+Tiimi Innovaatioimpulssi: Jetro Eräkangas, Niilo Virtamo, Emilia Friman, Jasmin Huttunen
 
 ## Johdanto
 
@@ -19,8 +19,18 @@ tekniikoita käytetään ja mitä konkreettisesti on valmiina, kun projekti pä�
 
 ## Järjestelmän määrittely
 
-TicketGurulla on kolme eri käyttäjäryhmää: asiakas, lipunmyyjä ja lipputoimisto. Alla on esitettynä käyttötapauskaaviona jokaisen
-käyttäjäryhmän tärkeimmät toiminnot.
+TicketGurulla on kolme eri käyttäjäryhmää: asiakas, lipunmyyjä ja lipputoimisto. 
+- Lipputoimisto lisää järjestelmäänsä tapahtumia, joihin myydään lippuja lipunmyyjän kautta.   
+- Lipunmyyjä toimii asiakaspalveluhenkilönä sekä vastaa lippujen tulostuksesta ja myynnistä asiakkaalle.   
+- Asiakas osallistuu tapahtumiin ostamalla lipun lipunmyyjältä. Tulevaisuudessa asiakkaan tulisi voida ostaa 
+lippuja itse verkkokaupan kautta.
+
+Alla on esitettynä käyttötapauskaaviona jokaisen
+käyttäjäryhmän tärkeimmät toiminnot:
+
+![alt text](https://github.com/JetiTheS/InnovaatioImpulssiLippu/blob/master/ticketguruusecase.png?raw=true "TicketGuru use case diagram")
+
+
 
 Määrittelyssä järjestelmää tarkastellaan käyttäjän näkökulmasta. Järjestelmän
 toiminnot hahmotellaan käyttötapausten tai käyttäjätarinoiden kautta, ja kuvataan järjestelmän
