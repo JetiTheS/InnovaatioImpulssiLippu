@@ -44,9 +44,47 @@ Käyttäjätarinoita:
 
 ## Käyttöliittymä
 
-Esitetään käyttöliittymän tärkeimmät (vain ne!) näkymät sekä niiden väliset siirtymät käyttöliittymäkaaviona. 
+1. Etusivu
+	- Ensimmäinen sivu jonka käyttäjä näkee
+	- Siirtymät: 
+		- Tapahtumat listaussivu
+		- Kirjautuminen / Rekisteröinti 
+		- Sovelluksen tiedot
+		
+2. Tapahtuma listaukset
+	- Näyttää kaikki saatavilla olevat tapahtumat 
+	- Siirtymät: 
+		- Etusivulle
+		- Tapahtumien yksityiskohtiin ja lippujen lisääminen ostoskoriin
+		- Ostoskori 
 
-Jos näkymän tarkoitus ei ole itsestään selvä, se pitää kuvata lyhyesti.
+3. Tapahtumien yksityiskohdat
+	- Näyttää valitun tapahtuman yksityiskohdat ja lippujen lisäämien ostoskoriin
+	- Siirtymät: 
+		- Takaisin etusivulle ja Tapahtumien listaukseen
+		- Ostoskori
+
+4. Kirjautuminen / Rekisteröinti 
+	- Kirjautuminen olemassa olevalle tilille tai tilin luominen
+	- Siirtymät: 
+		- Etusivu
+		- Tapahtumalistaan
+
+5. Ostoskori ja maksaminen
+	- Näyttää ostoskoriin lisätyt liput ja lippujen hinnat sekä yhteissumman lipuille. Lippujen maksaminen.
+	- Siirtymät: 
+		- Takaisin tapahtumalistaan
+		- Maksun jälkeeinen vahvistus
+
+6. Maksuvahvistus
+	- Näyttää yhteenvedon ostostapahtumasta 
+	- Siirtymät: 
+		- Takaisin etusivulle
+
+7. Sovelluksen tiedot
+	- Tiedot sovelluksesta, yhteystiedot ja maksuväline mahdollisuudet 
+	- Siirtymät: 
+		- Etusivu 
 
 ## Tietokanta
 
