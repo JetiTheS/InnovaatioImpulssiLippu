@@ -4,18 +4,17 @@ Tiimi Innovaatioimpulssi: Jetro Eräkangas, Niilo Virtamo, Emilia Friman, Jasmin
 
 ## Johdanto
 
-Lipunmyynti järjestelmä, lipputoimistolle lipunmyynti järjestelmä jolla voi myydä lippuja sujuvammin, järjestelmä rakennetaan SpringBoot:illa.
-Kun projekti on valmis, asiakkaalla on toimiva järjestelmä.
+- TicketGuru lipunmyyntijärjestelmän kehitys, jonka tarkoituksena on palvella lipputoimiston tarpeita lippujen myynnissä.
 
-Johdantoon kirjoitetaan lyhyt, ytimekäs kuvaus siitä, mikä on projektin aihe,
-kuka on asiakas (käyttäjä), mitä hän haluaa ja saa järjestelmältä, mitä
-tekniikoita käytetään ja mitä konkreettisesti on valmiina, kun projekti päättyy.
+- Järjestelmän tarkoitus: 
+	- Päätavoitteena on helpottaa lipunmyyntiä ja tapahtumien hallintaa. Järjestelmä tulee mahdollistamaan lippujen myynnin myyntipisteessä. Järjestelmää tarkoitus laajentaa myöhemmin verkkokauppa toimintaan, mikä palvelee asiakkaita, jotka haluavat ostaa lippuja etänä.
+	- Järjestelmän avulla lipputoimisto voi hallinnoida tapahtumia ja lipunmyyjät myydä lippuja myyntipisteissä.
 
--   Järjestelmän tarkoitus ja tiivis kuvaus siitä, mistä on kyse ja kenelle järjestelmä on tarkoitettu.
--   Toteutus- ja toimintaympäristö lyhyesti:  
-    -   Palvelinpuolen ratkaisut ja teknologiat (esim. palvelinteknologia, mikä tietokantajärjestelmä on käytössä)
-    -   Käyttöliittymäratkaisut ja teknologiat (esim. päätelaitteet: puhelin,
-    täppäri, desktop)
+- Toteutus:
+	- Järjestelmä tehdään hyödyntäen Java Spring Bootia.
+
+- Valmis työ:
+	- Projektin päättyessä odotamme TicketGuru-järjestelmän olevan täydessä toiminnassa, mahdollistaen sujuvan lipunmyynnin ja tapahtumien hallinnan. 
 
 ## Järjestelmän määrittely
 
